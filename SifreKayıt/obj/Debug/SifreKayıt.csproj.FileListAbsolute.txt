@@ -1,0 +1,13 @@
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\bin\Debug\SifreKayıt.exe.config
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\bin\Debug\SifreKayıt.exe
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\bin\Debug\SifreKayıt.pdb
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.csproj.AssemblyReference.cache
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.Form1.resources
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.Properties.Resources.resources
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.register.resources
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.csproj.GenerateResource.cache
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.exe
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.pdb
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.main.resources
+C:\Users\Veysel\Desktop\SifreKayıt\SifreKayıt\obj\Debug\SifreKayıt.sifreler.resources
